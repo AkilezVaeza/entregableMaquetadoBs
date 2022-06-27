@@ -1,0 +1,27 @@
+.titulo{
+    color: white;
+    background-color: green;
+}
+.lista ul{
+    list-style: none;
+}
+.lista ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+.imgBordes{
+    border-radius: 10px;
+}
+.btn{
+    color: white;
+    background-color: green;
+}
+.tarjetas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.btnForm{
+    width: 100px;
+}
